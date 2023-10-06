@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently pursuing MCA<br>🎯 Goals: To Be Different
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently pursuing MCA<br>
 
 ###
 
