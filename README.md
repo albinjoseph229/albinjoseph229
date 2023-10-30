@@ -6,12 +6,10 @@
 <p align="left">🌱 **Learning and Exploring:** I'm taking my first steps into the world of coding and technology. My GitHub journey is a place to document my progress and share my experiences as I discover new skills and languages.</p>
 <p align="left">😊 **I'm here to meet fellow beginners, seasoned developers, and anyone who's passionate about coding. Let's learn from each other and have fun with code!</p>
   
-<h3 align="left">🤝Connect: </h3>
-<p align="left">📧 **Email:** albinjoseph229@gmail.com</p>
-<p align="left">🌐 **LinkedIn:**https://www.linkedin.com/in/albin-joseph-99b273265</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<p align="left">📧 **Email:** albinjoseph229@gmail.com</p>
 <a href="https://www.linkedin.com/in/albin-joseph-99b273265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/albin-joseph-99b273265" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22406085/albin-joseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22406085/albin-joseph" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/albinjoseph229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="albinjoseph229" height="30" width="40" /></a>
