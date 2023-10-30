@@ -1,4 +1,4 @@
-<h1 align="center">### Hello, I'm Albin Joseph 👋</h1>
+<h1 align="center"> Hello, I'm Albin Joseph 👋</h1>
 <h3 align="center">I'm an aspiring software developer 
   currently studying for my Master of Computer Applications (MCA) at <a href="https://rajagiri.edu/" </a> Rajagiri College of Social Sciences.</h3>
 
