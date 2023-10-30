@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm albin joseph</h1>
 <h3 align="center">I'm an aspiring software developer currently studying for my Master of Computer Applications (MCA) at Rajagiri College of Social Sciences.</h3>
+
 <p align="left">I'm an aspiring software developer currently studying for my Master of Computer Applications (MCA) at Rajagiri College of Social Sciences. I'm at the beginning of my coding journey and excited to learn, grow, and collaborate with the amazing GitHub community.</p>
+<p align="left">🌱 **Learning and Exploring:** I'm taking my first steps into the world of coding and technology. My GitHub journey is a place to document my progress and share my experiences as I discover new skills and languages.</p>
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
