@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Albin Joseph and I'm from India</p>
+<p align="left">My name is Albin Joseph and I'm currently pursuing MCA from rajagiri college of social sciences</p>
 
 ###
 
