@@ -8,7 +8,7 @@
   
 <h3 align="left">🤝Connect: </h3>
 <p align="left">📧 **Email:** [albinjoseph229@gmail.com](albinjoseph229@gmail.com)</p>
-<p align="left">🌐 **LinkedIn:**[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/albin-joseph-99b273265/)</p>
+<p align="left">🌐 **LinkedIn:**https://www.linkedin.com/in/albin-joseph-99b273265</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
