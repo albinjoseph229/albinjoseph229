@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm albin joseph</h1>
 <h3 align="center">I'm an aspiring software developer currently studying for my Master of Computer Applications (MCA) at Rajagiri College of Social Sciences.</h3>
 
-- 📧 **Email:** **albinjoseph229@gmail.com**
-
-- 🌐 **LinkedIn:** [Connect with me on LinkedIn ] **https://www.linkedin.com/in/albin-joseph-99b273265**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/albin-joseph-99b273265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/albin-joseph-99b273265" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:22406085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22406085" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22406085/albin-joseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22406085/albin-joseph" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/albinjoseph229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="albinjoseph229" height="30" width="40" /></a>
 </p>
 
