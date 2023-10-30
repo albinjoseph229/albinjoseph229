@@ -7,7 +7,7 @@
 <p align="left">😊 **I'm here to meet fellow beginners, seasoned developers, and anyone who's passionate about coding. Let's learn from each other and have fun with code!</p>
   
 <h3 align="left">🤝Connect: </h3>
-<p align="left">📧 **Email:** [albinjoseph229@gmail.com](albinjoseph229@gmail.com)</p>
+<p align="left">📧 **Email:** albinjoseph229@gmail.com</p>
 <p align="left">🌐 **LinkedIn:**https://www.linkedin.com/in/albin-joseph-99b273265</p>
 
 
