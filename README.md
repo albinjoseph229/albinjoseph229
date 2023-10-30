@@ -1,5 +1,6 @@
 <h1 align="center">### Hello, I'm Albin Joseph 👋</h1>
-<h3 align="center">I'm an aspiring software developer currently studying for my Master of Computer Applications (MCA) at Rajagiri College of Social Sciences.</h3>
+<h3 align="center">I'm an aspiring software developer 
+  currently studying for my Master of Computer Applications (MCA) at Rajagiri College of Social Sciences.</h3>
 
 <p align="left">💻 **I'm an aspiring software developer currently studying for my Master of Computer Applications (MCA) at Rajagiri College of Social Sciences. I'm at the beginning of my coding journey and excited to learn, grow, and collaborate with the amazing GitHub community.</p>
 <p align="left">🌱 **Learning and Exploring:** I'm taking my first steps into the world of coding and technology. My GitHub journey is a place to document my progress and share my experiences as I discover new skills and languages.</p>
@@ -7,7 +8,7 @@
   
 <h3 align="left">🤝Connect: </h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/albin-joseph-99b273265](https://www.linkedin.com/in/albin-joseph-99b273265/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/albin-joseph-99b273265](https://www.linkedin.com/in/albin-joseph-99b273265/)" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/albin-joseph-99b273265](https://www.linkedin.com/in/albin-joseph-99b273265)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/albin-joseph-99b273265" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22406085/albin-joseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22406085/albin-joseph" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/albinjoseph229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="albinjoseph229" height="30" width="40" /></a>
 </p>
