@@ -21,4 +21,3 @@
 
 
 <img src="https://raw.githubusercontent.com/albz007/albz007/output/snake.svg" alt="Snake animation" />
-in this i want to add the gif file to the right side
