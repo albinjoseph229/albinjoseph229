@@ -6,7 +6,9 @@
 <p align="left">🌱 **Learning and Exploring:** I'm taking my first steps into the world of coding and technology. My GitHub journey is a place to document my progress and share my experiences as I discover new skills and languages.</p>
 <p align="left">😊 **I'm here to meet fellow beginners, seasoned developers, and anyone who's passionate about coding. Let's learn from each other and have fun with code!</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 <br><br>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
