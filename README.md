@@ -5,8 +5,9 @@
 <p align="left">💻 **. I'm at the beginning of my coding journey and excited to learn, grow, and collaborate with the amazing GitHub community.</p>
 <p align="left">🌱 **Learning and Exploring:** I'm taking my first steps into the world of coding and technology. My GitHub journey is a place to document my progress and share my experiences as I discover new skills and languages.</p>
 <p align="left">😊 **I'm here to meet fellow beginners, seasoned developers, and anyone who's passionate about coding. Let's learn from each other and have fun with code!</p>
-  
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br><br>
                       
 <h3 align="left">Connect with me:</h3>
 <p align="left">
