@@ -6,8 +6,7 @@
 <p align="left">🌱 **Learning and Exploring:** I'm taking my first steps into the world of coding and technology. My GitHub journey is a place to document my progress and share my experiences as I discover new skills and languages.</p>
 <p align="left">😊 **I'm here to meet fellow beginners, seasoned developers, and anyone who's passionate about coding. Let's learn from each other and have fun with code!</p>
   
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/albin-joseph-99b273265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/albin-joseph-99b273265" height="30" width="40" /></a>
