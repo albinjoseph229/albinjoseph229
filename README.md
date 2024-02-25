@@ -33,15 +33,12 @@
 
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 
 <div align="center">
     <h2>🐍 My Contributions 🐍</h2>
     <br>
-    <img ![Snake animation Contribution Graph](https://raw.githubusercontent.com/albz007/albz007/output/snake.svg)
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/albz007/albz007/output/snake.svg" />
-  <br/><br/><br/>
+  
 </div>
 
 
