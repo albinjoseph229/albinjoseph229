@@ -39,7 +39,8 @@
 <div align="center">
     <h2>🐍 My Contributions 🐍</h2>
     <br>
-    ![Snake animation Contribution Graph](https://raw.githubusercontent.com/albz007/albz007/output/snake.svg)
+    <img ![Snake animation Contribution Graph](https://raw.githubusercontent.com/albz007/albz007/output/snake.svg)
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/albz007/albz007/output/snake.svg" />
   <br/><br/><br/>
 </div>
 
