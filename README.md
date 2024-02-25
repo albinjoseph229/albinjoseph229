@@ -30,7 +30,6 @@
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="laravel" width="40" height="40"/>
 </a>  
 </p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
     <h2>🐍 My Contributions 🐍</h2>
