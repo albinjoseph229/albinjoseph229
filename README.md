@@ -12,7 +12,7 @@ currently studying for my Master of Computer Applications (MCA) at <a href="http
 </div>
 <br> 
 
-<h2 align="left">😊Connect with me:😊</h3>
+<h2 align="left">😊 Connect with me: 😊</h3>
 <div align="left">
 <a href="https://www.linkedin.com/in/albin-joseph-99b273265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/albin-joseph-99b273265" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22406085/albin-joseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22406085/albin-joseph" height="30" width="40" /></a>
@@ -20,7 +20,7 @@ currently studying for my Master of Computer Applications (MCA) at <a href="http
 </div>
 <br>
 
-<h2 align="left">⚒️Languages and Tools:⚒️</h2>
+<h2 align="left">⚒️ Languages and Tools: ⚒️</h2>
 <div align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css" width="40" height="40"/>   
