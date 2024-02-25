@@ -28,11 +28,9 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="laravel" width="40" height="40"/>
-</a> 
- </p>
-
-
-
+</a>  
+</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
     <h2>🐍 My Contributions 🐍</h2>
@@ -50,7 +48,7 @@
   <img width=390 src="https://github-readme-streak-stats-albz007.vercel.app/?user=albz007&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-albz007.vercel.app/api?username=albz007&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-albz007.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-albz007.vercel.app/api/top-langs/?username=albz007&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 
