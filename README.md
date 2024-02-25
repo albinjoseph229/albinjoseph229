@@ -10,17 +10,17 @@
 <p align="left">🌱 **Learning and Exploring:** I'm taking my first steps into the world of coding and technology. My GitHub journey is a place to document my progress and share my experiences as I discover new skills and languages.</p>
 <p align="left">😊 **I'm here to meet fellow beginners, seasoned developers, and anyone who's passionate about coding. Let's learn from each other and have fun with code!</p>
 </div>
+<br> 
 
-
-                      
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">😊Connect with me:😊</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/albin-joseph-99b273265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/albin-joseph-99b273265" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22406085/albin-joseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22406085/albin-joseph" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/albinjoseph229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="albinjoseph229" height="30" width="40" /></a>
 </p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🔨Languages and Tools:⛏️</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css" width="40" height="40"/>   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -30,8 +30,9 @@
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="laravel" width="40" height="40"/>
 </a>  
 </p>
+<br>
 
-<div align="center">
+<div align="left">
     <h2>🐍 My Contributions 🐍</h2>
     <br>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/albz007/albz007/output/snake.svg" />
@@ -39,15 +40,20 @@
 </div>
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<br>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-albz007.vercel.app/?user=albz007&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-albz007.vercel.app/api?username=albz007&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-albz007.vercel.app/api/top-langs/?username=albz007&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albz007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albz007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+        <img src="https://streak-stats.demolab.com?user=albz007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+    
+</div>
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
