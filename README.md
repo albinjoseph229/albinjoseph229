@@ -20,7 +20,7 @@ currently studying for my Master of Computer Applications (MCA) at <a href="http
 </div>
 <br>
 
-<h3 align="left">🔨Languages and Tools:⛏️</h3>
+<h3 align="left">⚒️Languages and Tools:⚒️</h3>
 <div align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css" width="40" height="40"/>   
