@@ -34,7 +34,10 @@ currently studying for my Master of Computer Applications (MCA) at <a href="http
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="laravel" width="40" height="40"/>
-</a>  
+</a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+<img src="[https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a](https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png)" alt="laravel" width="40" height="40"/>
+</a> 
 </div>
 <br>
 
