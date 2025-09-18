@@ -58,19 +58,32 @@ currently studying for my Master of Computer Applications (MCA) at <a href="http
 </div>
 
 
-<h2 align="left">⚡ Stats ⚡</h2>
+<h2 align="left">⚡ GitHub Stats & Activity ⚡</h2>
 <br>
-<div align=center>
-    <div align="center">
-        <img src="https://github-readme-stats-lyart-one-nz8t96vokv.vercel.app/api?username=albinjoseph229&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
-        
-        <img src="https://github-readme-stats-lyart-one-nz8t96vokv.vercel.app/api/top-langs?username=albinjoseph229&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-        
-        <img src="https://streak-stats.demolab.com?user=albinjoseph229&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-    </div>
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-lyart-one-nz8t96vokv.vercel.app/api?username=albinjoseph229&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=false" height="160" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-lyart-one-nz8t96vokv.vercel.app/api/top-langs?username=albinjoseph229&layout=compact&langs_count=8&theme=radical&hide_border=false" height="160" alt="Top Languages" />
+
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=albinjoseph229&theme=radical&hide_border=false" height="160" alt="GitHub Streak" />
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=albinjoseph229&theme=radical&no-frame=true&margin-w=10&margin-h=10" height="160" alt="Trophies" />
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albinjoseph229&theme=radical&hide_border=false" height="260" alt="Activity Graph" />
+
+  <!-- Snake Contribution Graph -->
+  <img src="https://github.com/albinjoseph229/albinjoseph229/blob/output/snake.svg" alt="Snake animation" />
+
 </div>
 <br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
 
 
 
