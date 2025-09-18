@@ -61,7 +61,8 @@ currently studying for my Master of Computer Applications (MCA) at <a href="http
 <h2 align="left">⚡ GitHub Stats & Activity ⚡</h2>
 <br>
 <div align="center">
-
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=albinjoseph229&theme=radical&no-frame=true&margin-w=10&margin-h=10" height="160" alt="Trophies" />
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats-lyart-one-nz8t96vokv.vercel.app/api?username=albinjoseph229&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=false" height="160" alt="GitHub Stats" />
 
@@ -71,11 +72,7 @@ currently studying for my Master of Computer Applications (MCA) at <a href="http
   <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=albinjoseph229&theme=radical&hide_border=false" height="160" alt="GitHub Streak" />
 
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=albinjoseph229&theme=radical&no-frame=true&margin-w=10&margin-h=10" height="160" alt="Trophies" />
 
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albinjoseph229&theme=radical&hide_border=false" height="260" alt="Activity Graph" />
 
 
 </div>
