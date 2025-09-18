@@ -77,8 +77,6 @@ currently studying for my Master of Computer Applications (MCA) at <a href="http
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=albinjoseph229&theme=radical&hide_border=false" height="260" alt="Activity Graph" />
 
-  <!-- Snake Contribution Graph -->
-  <img src="https://github.com/albinjoseph229/albinjoseph229/blob/output/snake.svg" alt="Snake animation" />
 
 </div>
 <br>
