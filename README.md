@@ -23,7 +23,7 @@ currently studying for my Master of Computer Applications (MCA) at <a href="http
 <h2 align="left">⚒️ Languages and Tools: ⚒️</h2>
 <div align="left"> 
 <p>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="42" height="42" /></a>
+<a target="_blank" href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
